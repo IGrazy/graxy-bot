@@ -1,0 +1,2 @@
+# graxy-bot
+Discord bot :)
